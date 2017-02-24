@@ -3,6 +3,7 @@ public static void main(){
 	你好 世界！
 	hellow world
 	nihao
+	你好呀
 	dsd\
 	dqwd
 }
